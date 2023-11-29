@@ -10,6 +10,9 @@
 
 
 
+
+
+
 # About Point72
 Point72 Asset Management is a global firm led by Steven Cohen that invests in multiple asset classes and strategies worldwide. Resting on more than a quarter-century of investing experience, we seek to be the industry's premier asset manager through delivering superior risk-adjusted returns, adhering to the highest ethical standards, and offering the greatest opportunities to the industry's brightest talent. For more information, visit [www.Point72.com/about](http://www.Point72.com/about).
 
