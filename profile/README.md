@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/company/point72-asset-management-l-p-/"><img alt="LinkedIn badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/POINT72CAREERS/"><img alt="Instagram badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.youtube.com/@point72careers22"><img alt="Youtube badge" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="http://youtube.com/@point72careers"><img alt="Youtube badge" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.glassdoor.com/Overview/Working-at-Point72-EI_IE1032703.11,18.htm"><img alt="Glassdoor badge" src="https://img.shields.io/badge/Glassdoor-0caa41?style=for-the-badge&logo=glassdoor&logoColor=white"></a>
 </p>
 
