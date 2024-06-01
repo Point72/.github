@@ -20,14 +20,6 @@ Point72 Asset Management is a global firm led by Steven Cohen that invests in mu
 
 
 
-# Updates and Events
-
-- Check back soon!
-
-
-
-
-
 # Technology @ Point72
 
 Our Technology department is constantly working to improve our IT infrastructure to position us at the forefront of the rapidly evolving technology landscape. We’re a team of experts experimenting and discovering new ways to provide exceptional products to our end-users while embracing enterprise agile methodology. We encourage professional development to ensure you bring innovative ideas to our team while satisfying your own intellectual curiosity.
