@@ -1,5 +1,5 @@
 
-[![Light text on a dark background that says "We are an ideas business"](https://raw.githubusercontent.com/Point72/.github/main/assets/cover.jpg)](https://point72.com/)
+[![Light text on a dark background that says "Build it here"](https://raw.githubusercontent.com/Point72/.github/main/assets/cover.png)](https://point72.com/)
 
 <p align="center">
 <a href="https://www.linkedin.com/company/point72-asset-management-l-p-/"><img alt="LinkedIn badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
